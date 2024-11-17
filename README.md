@@ -1,6 +1,6 @@
 
 # Tugas 1
-Aplikasi Penghitung Umur
+Aplikasi Cek Genap Ganjil
 - Nama : Haykal Eka Putra Gultom
 - NPM : 2310010701
 - Kelas : 5A
